@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1320" height="470" viewBox="0 0 1320 470" role="img" aria-labelledby="title desc">
+<title id="title">Aurum architecture: quantitative ranking, constrained document research and an immutable record</title>
+<desc id="desc">Data adapters feed accounting gates and sector-relative scores. Only six to eight shortlisted companies reach document research. Verified findings can demote or veto, never promote. The decision engine writes and seals the journal, which the local dashboard reads.</desc>
+<defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto"><path d="M0 0L6 3L0 6" fill="none" stroke="#6d78a0" stroke-width="1.5"/></marker></defs>
+<rect width="1320" height="470" rx="14" fill="#0b0d12"/>
+<g font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif">
+<text x="32" y="49" fill="#f0f0ef" font-size="29" font-weight="600">Broad screening. Narrow research. A permanent record.</text>
+<text x="32" y="82" fill="#a3a8b7" font-size="18">Implementation overview · live acceptance and strategy validation remain open</text>
+<g fill="#131722" stroke="#343b50"><rect x="32" y="128" width="224" height="136" rx="8"/><rect x="290" y="128" width="224" height="136" rx="8"/><rect x="548" y="128" width="224" height="136" rx="8"/><rect x="806" y="128" width="224" height="136" rx="8"/><rect x="1064" y="128" width="224" height="136" rx="8"/></g>
+<g fill="#829cff" font-size="13" letter-spacing="1.5"><text x="50" y="152">01 / ACQUIRE</text><text x="308" y="152">02 / RANK</text><text x="566" y="152">03 / VERIFY</text><text x="824" y="152">04 / DECIDE</text><text x="1082" y="152">05 / RECORD</text></g>
+<g fill="#f0f0ef" font-size="21" font-weight="600"><text x="50" y="185">Data adapters</text><text x="308" y="185">Quantitative rules</text><text x="566" y="185">Document research</text><text x="824" y="185">Decision engine</text><text x="1082" y="185">Sealed journal</text></g>
+<g fill="#a3a8b7" font-size="17"><text x="50" y="216">Provider protocols</text><text x="50" y="242">Retained inputs + hashes</text><text x="308" y="216">13 accounting gates</text><text x="308" y="242">Sector-relative factors</text><text x="566" y="216">~6–8 companies</text><text x="566" y="242">Cited facts + reasoning</text><text x="824" y="216">Eligibility + portfolio fit</text><text x="824" y="242">Includes “no buy”</text><text x="1082" y="216">Write, then seal</text><text x="1082" y="242">Immutable afterward</text></g>
+<g fill="none" stroke="#6d78a0" stroke-width="1.7" marker-end="url(#arrow)"><path d="M259 196H286"/><path d="M517 196H544"/><path d="M775 196H802"/><path d="M1033 196H1060"/><path d="M1176 266V312"/></g>
+<rect x="1064" y="318" width="224" height="83" rx="8" fill="#111e1c" stroke="#345a50"/>
+<text x="1082" y="348" fill="#b8edda" font-size="20" font-weight="600">Local dashboard</text><text x="1082" y="378" fill="#a3c3b8" font-size="17">Reads the journal</text>
+<text x="32" y="318" fill="#f0f0ef" font-size="19" font-weight="600">Authority is deliberately limited</text>
+<text x="32" y="351" fill="#a3a8b7" font-size="18">Quant sets rank. Verified evidence may demote or veto, never promote.</text>
+<text x="32" y="382" fill="#a3a8b7" font-size="18">News opens investigations. Missing evidence stays missing.</text>
+<path d="M32 423H1288" stroke="#242b3b"/>
+<text x="32" y="451" fill="#7e879c" font-size="15">Python · pandas / Parquet · pdfplumber · Claude Code backend · FastAPI / Jinja2 / HTMX</text>
+</g></svg>
